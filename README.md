@@ -1,1 +1,3 @@
 # Lung-Cancer-Prediction
+
+Lung cancer is one of the most dangerous diseases and is leading cause of death of many individuals. So, detectingcancer in early states is important to increase the chances ofsurvival of the lung cancer patient. But detecting lung cancer is hard for radiologists and computer aided systems can be very useful. These computer aided systems can be made by using different models, technologies, and techniques. This project focuses on comprehensive comparative study of computational intelligence techniques Deep learning based convolutional neural networks and artificial neural networks and Fuzzy Neural Networks.
